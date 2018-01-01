@@ -1,5 +1,5 @@
-# flappy
-Flappy Bird clone Android game with OpenGL ES
+# Flappy Bird
+Flappy Bird clone Android game with OpenGL ES.
 
 # Screenshots
-![Alt text](screenshot.png?raw=true "screenshot")
+![Screenshot](screenshot.png?raw=true "screenshot")
